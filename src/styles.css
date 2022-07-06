@@ -1,5 +1,7 @@
 body {
   background-color: blanchedalmond;
+  display: block;
+  margin: 50px;
 }
 
 h1,
